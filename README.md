@@ -7,7 +7,7 @@
 I'm a **Collegiate Learner** with a zeal for technological innovation. I love working on projects related to the web or making a mobile application apart from using AI for training Models, and I'm always excited to collaborate on open-source projects. 
 
 - 🔭 I’m currently pursuing proficiency in MERN Stack Development.
-- 📫 How to reach me: anshkpatel5@gmail.com 
+- 📫 How to reach me: anshkpatel15@gmail.com 
 - ⚡ Fun fact: JavaScript Aficionado and Coffee Enthusiast.
 
 ---
