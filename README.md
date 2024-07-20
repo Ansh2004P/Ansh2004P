@@ -38,7 +38,7 @@ I'm a **Collegiate Learner** with a zeal for technological innovation. I love wo
 ---
 
 
-### 💡 -"High on Javascript"_
+### 🍺 -"High on Javascript"_
 
 ---
 
