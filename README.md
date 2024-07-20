@@ -17,17 +17,21 @@ I'm a **Collegiate Learner** with a zeal for technological innovation. I love wo
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ---
 
-### 📫 Connect with Me
+### 📫 Socials
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/Ansh2004P)
-- Email: [yourname@example.com](mailto:anshkpatel15@gmail.com)
-
+- LinkedIn: [Ansh2004P](https://www.linkedin.com/in/Ansh2004P)
+- Codechef: [Porgas_d_ace](https://www.codechef.com/users/porgas_d_ace)
+- LeetCode: [Ansh_K_Patel](https://leetcode.com/u/Ansh_K_Patel/)
+- CodeForces: [anshkpatel15](https://codeforces.com/profile/anshkpatel15)
 ---
 
 
