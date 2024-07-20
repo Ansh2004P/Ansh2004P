@@ -18,11 +18,13 @@ I'm a **Collegiate Learner** with a zeal for technological innovation. I love wo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)\
+![tailwindCSS](https://img.shields.io/badge/-tailwindCSS-000?&logo=tailwindCSS)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
 
 ---
 
