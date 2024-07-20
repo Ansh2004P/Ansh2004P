@@ -13,15 +13,15 @@ I'm a **Collegiate Learner** with a zeal for technological innovation. I love wo
 ---
 
 ### 🛠️ Languages and Tools
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ---
