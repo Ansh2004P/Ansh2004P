@@ -15,7 +15,6 @@ I'm a **Collegiate Learner** with a zeal for technological innovation. I love wo
 ### 🛠️ Languages and Tools
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
@@ -23,6 +22,7 @@ I'm a **Collegiate Learner** with a zeal for technological innovation. I love wo
 ![tailwindCSS](https://img.shields.io/badge/-tailwindCSS-000?&logo=tailwindCSS)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 ![C](https://img.shields.io/badge/-C-000?&logo=C%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
