@@ -19,6 +19,7 @@ I'm a **Collegiate Learner** with a zeal for technological innovation. I love wo
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![tailwindCSS](https://img.shields.io/badge/-tailwindCSS-000?&logo=tailwindCSS)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
