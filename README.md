@@ -16,6 +16,7 @@ I'm a **Collegiate Learner** with a zeal for technological innovation. I love wo
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Golang](https://img.shields.io/badge/-Golang-002?&logo=Golang&color=blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
