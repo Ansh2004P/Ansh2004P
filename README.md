@@ -1,4 +1,4 @@
-## Hello I'm Ansh Patel;😉
+## Hello I'm Ansh Patel😉
 
 ---
 
