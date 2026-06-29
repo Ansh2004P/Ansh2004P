@@ -40,7 +40,7 @@ I'm a **Collegiate Learner** with a zeal for technological innovation. I love wo
 
 ### 📫 Socials
 
-- LinkedIn: [Ansh2004P](https://www.linkedin.com/in/anshpatel2004/)
+- LinkedIn: [Ansh2004P](https://www.linkedin.com/in/ansh-patel-0a1a2b3a8/)
 - Codechef: [Porgas_d_ace](https://www.codechef.com/users/porgas_d_ace)
 - LeetCode: [Ansh_K_Patel](https://leetcode.com/u/Ansh_K_Patel/)
 - CodeForces: [anshkpatel15](https://codeforces.com/profile/anshkpatel15)
